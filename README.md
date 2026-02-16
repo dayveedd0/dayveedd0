@@ -54,7 +54,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <[![Dayveedd0's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayveedd0)](https://github.com/dayveedd0/github-readme-stats)
+   <img src="https://github-readme-stats.vercel.app/api?username=dayveedd0&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="dayveedd0's GitHub Stats" />
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
