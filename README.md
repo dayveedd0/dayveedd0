@@ -54,13 +54,13 @@
 ## 📊 My Github Stats
 
   <br/>
-   <img src="https://github-readme-stats.vercel.app/api?username=dayveedd0&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="dayveedd0's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dayveedd0&amp;layout=compact&amp;theme=github_dark" alt="GitHub Stats Card 3" style="opacity: 1; transform: translateY(0px); transition: 0.5s;">
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<a href="https://github.com/dayveedd0/github-readme-activity-graph"><img alt="David's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=dayveedd0&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=dayveedd0&amp;show_icons=true&amp;theme=github_dark" alt="GitHub Stats Card 1" style="opacity: 1; transform: translateY(0px); transition: 0.5s;">
 
 <br/>
 <br/>
